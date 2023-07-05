@@ -2,10 +2,9 @@
 
 <strong><em> LinkdIn: By [Dbian.io Data Scientist](https://www.linkedin.com/company/81834844/admin/)<strong> 
 
-<h4 style='text-align: center; color:Blue;'>PROJETO CENIPA </h4>
+### <center><strong> <em> PROJETO DE DATA SCIENTIST <em> <strong></center> 
 
-Projeto sobre operações das aeronaves no Brasil 
-
+ - ESTUDOS DE CASOS COM DADOS DE ACIDENTES AÉREOS NO BRASIL<em> <strong></center>
  - Este trabalho é delimitado inicialmente pela estrutura e dados disponíveis na base de dados pública utilizada do CENIPA e da ANAC. Desta forma, uma delimitação é o período disponível para análise de dados que corresponde aos anos de 2010 a 2020.
 Dada a sua grande abrangência, explorar todas as áreas envolvidas na análise de dados exigiria bastante tempo. Desta forma outra delimitação é o tempo disponível para a elaboração deste trabalho inferior a um ano.
     - Visualização das tabelas ( relacinamento entre as variaveis ), Tabelas ***fato e tabelas dimensão*** objeto de estudados desse projeto.
